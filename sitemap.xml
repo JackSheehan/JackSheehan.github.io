@@ -2,10 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jacksheehan.github.io/categories/</loc>
+    <loc>https://jacksheehan.dev/tags/blog/</loc>
+    <lastmod>2022-09-23T16:29:15+01:00</lastmod>
   </url><url>
-    <loc>https://jacksheehan.github.io/</loc>
+    <loc>https://jacksheehan.dev/blog/</loc>
+    <lastmod>2022-09-23T16:29:15+01:00</lastmod>
   </url><url>
-    <loc>https://jacksheehan.github.io/tags/</loc>
+    <loc>https://jacksheehan.dev/tags/hello/</loc>
+    <lastmod>2022-09-23T16:29:15+01:00</lastmod>
+  </url><url>
+    <loc>https://jacksheehan.dev/blog/hello_world/</loc>
+    <lastmod>2022-09-23T16:29:15+01:00</lastmod>
+  </url><url>
+    <loc>https://jacksheehan.dev/</loc>
+    <lastmod>2022-09-23T16:29:15+01:00</lastmod>
+  </url><url>
+    <loc>https://jacksheehan.dev/tags/</loc>
+    <lastmod>2022-09-23T16:29:15+01:00</lastmod>
+  </url><url>
+    <loc>https://jacksheehan.dev/categories/</loc>
   </url>
 </urlset>
